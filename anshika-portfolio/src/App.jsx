@@ -1,6 +1,6 @@
 import "./App.css";
 import quriScreenshot from "./image.png";
-import profilePortrait from "./image_2.jpg";
+import profilePortrait from "./image_2.jpeg";
 
 function App() {
   return (
